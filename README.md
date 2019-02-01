@@ -27,3 +27,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+tutorial vuex :
+https://medium.com/@alziqziq/berkenalan-dengan-vuex-part1-vuex-38cdc2ec4149
